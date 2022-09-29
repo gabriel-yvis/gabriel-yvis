@@ -1,5 +1,11 @@
 # Gabriel Yvis's Profile
 
+<style>
+    .test{ color: red; }
+</style>
+
+<p class="test">testing</p>
+
 <div style="display: inline-flex; margin: 2rem 0; border-radius: 1rem; padding: 2rem; background: #151515;">
 
 <div style="display: inline-flex; flex-direction: column; align-items: center;">
